@@ -1,0 +1,35 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Large media files (if you want to exclude them)
+# Uncomment the lines below if your audio/image files are too large for GitHub
+# audio/*.wav
+# images/*.tiff
+# images/*.psd
+
+# Build artifacts (if using any build tools)
+node_modules/
+dist/
+build/
+
+# Environment files
+.env
+.env.local
+.env.production 

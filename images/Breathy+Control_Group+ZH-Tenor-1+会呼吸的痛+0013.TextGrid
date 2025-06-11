@@ -1,0 +1,717 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 11.07 
+tiers? <exists> 
+size = 6 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "GT word" 
+        xmin = 0 
+        xmax = 11.07 
+        intervals: size = 21 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.61 
+            text = "需" 
+        intervals [2]:
+            xmin = 0.61 
+            xmax = 1.073 
+            text = "要" 
+        intervals [3]:
+            xmin = 1.073 
+            xmax = 1.48 
+            text = "依" 
+        intervals [4]:
+            xmin = 1.48 
+            xmax = 2.02 
+            text = "赖" 
+        intervals [5]:
+            xmin = 2.02 
+            xmax = 2.87 
+            text = "我" 
+        intervals [6]:
+            xmin = 2.87 
+            xmax = 3.31 
+            text = "@" 
+        intervals [7]:
+            xmin = 3.31 
+            xmax = 3.77 
+            text = "我" 
+        intervals [8]:
+            xmin = 3.77 
+            xmax = 4.3 
+            text = "就" 
+        intervals [9]:
+            xmin = 4.3 
+            xmax = 4.66 
+            text = "装" 
+        intervals [10]:
+            xmin = 4.66 
+            xmax = 4.85 
+            text = "不" 
+        intervals [11]:
+            xmin = 4.85 
+            xmax = 5.18 
+            text = "晓" 
+        intervals [12]:
+            xmin = 5.18 
+            xmax = 6.01 
+            text = "得" 
+        intervals [13]:
+            xmin = 6.01 
+            xmax = 6.39 
+            text = "@" 
+        intervals [14]:
+            xmin = 6.39 
+            xmax = 6.77 
+            text = "自" 
+        intervals [15]:
+            xmin = 6.77 
+            xmax = 7.041 
+            text = "由" 
+        intervals [16]:
+            xmin = 7.041 
+            xmax = 7.36 
+            text = "移" 
+        intervals [17]:
+            xmin = 7.36 
+            xmax = 7.79 
+            text = "动" 
+        intervals [18]:
+            xmin = 7.79 
+            xmax = 8.087 
+            text = "自" 
+        intervals [19]:
+            xmin = 8.087 
+            xmax = 8.37 
+            text = "我" 
+        intervals [20]:
+            xmin = 8.37 
+            xmax = 8.55 
+            text = "地" 
+        intervals [21]:
+            xmin = 8.55 
+            xmax = 11.07 
+            text = "过" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "GT phoneme" 
+        xmin = 0 
+        xmax = 11.07 
+        intervals: size = 33 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.127 
+            text = "x" 
+        intervals [2]:
+            xmin = 0.127 
+            xmax = 0.61 
+            text = "v" 
+        intervals [3]:
+            xmin = 0.61 
+            xmax = 1.073 
+            text = "iao" 
+        intervals [4]:
+            xmin = 1.073 
+            xmax = 1.48 
+            text = "i" 
+        intervals [5]:
+            xmin = 1.48 
+            xmax = 1.705 
+            text = "l" 
+        intervals [6]:
+            xmin = 1.705 
+            xmax = 2.02 
+            text = "ai" 
+        intervals [7]:
+            xmin = 2.02 
+            xmax = 2.87 
+            text = "uo" 
+        intervals [8]:
+            xmin = 2.87 
+            xmax = 3.31 
+            text = "@" 
+        intervals [9]:
+            xmin = 3.31 
+            xmax = 3.77 
+            text = "uo" 
+        intervals [10]:
+            xmin = 3.77 
+            xmax = 3.884 
+            text = "j" 
+        intervals [11]:
+            xmin = 3.884 
+            xmax = 4.3 
+            text = "iou" 
+        intervals [12]:
+            xmin = 4.3 
+            xmax = 4.411 
+            text = "zh" 
+        intervals [13]:
+            xmin = 4.411 
+            xmax = 4.66 
+            text = "uang" 
+        intervals [14]:
+            xmin = 4.66 
+            xmax = 4.722 
+            text = "b" 
+        intervals [15]:
+            xmin = 4.722 
+            xmax = 4.85 
+            text = "u" 
+        intervals [16]:
+            xmin = 4.85 
+            xmax = 4.993 
+            text = "x" 
+        intervals [17]:
+            xmin = 4.993 
+            xmax = 5.18 
+            text = "iao" 
+        intervals [18]:
+            xmin = 5.18 
+            xmax = 5.264 
+            text = "d" 
+        intervals [19]:
+            xmin = 5.264 
+            xmax = 6.01 
+            text = "e" 
+        intervals [20]:
+            xmin = 6.01 
+            xmax = 6.39 
+            text = "@" 
+        intervals [21]:
+            xmin = 6.39 
+            xmax = 6.547 
+            text = "z" 
+        intervals [22]:
+            xmin = 6.547 
+            xmax = 6.77 
+            text = "i" 
+        intervals [23]:
+            xmin = 6.77 
+            xmax = 7.041 
+            text = "iou" 
+        intervals [24]:
+            xmin = 7.041 
+            xmax = 7.36 
+            text = "i" 
+        intervals [25]:
+            xmin = 7.36 
+            xmax = 7.43 
+            text = "d" 
+        intervals [26]:
+            xmin = 7.43 
+            xmax = 7.79 
+            text = "ong" 
+        intervals [27]:
+            xmin = 7.79 
+            xmax = 7.927 
+            text = "z" 
+        intervals [28]:
+            xmin = 7.927 
+            xmax = 8.087 
+            text = "i" 
+        intervals [29]:
+            xmin = 8.087 
+            xmax = 8.37 
+            text = "uo" 
+        intervals [30]:
+            xmin = 8.37 
+            xmax = 8.413 
+            text = "d" 
+        intervals [31]:
+            xmin = 8.413 
+            xmax = 8.55 
+            text = "e" 
+        intervals [32]:
+            xmin = 8.55 
+            xmax = 8.719 
+            text = "g" 
+        intervals [33]:
+            xmin = 8.719 
+            xmax = 11.07 
+            text = "uo" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "Phonsa word" 
+        xmin = 0 
+        xmax = 11.07 
+        intervals: size = 22 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.62 
+            text = "需" 
+        intervals [2]:
+            xmin = 0.62 
+            xmax = 1.14 
+            text = "要" 
+        intervals [3]:
+            xmin = 1.14 
+            xmax = 1.56 
+            text = "依" 
+        intervals [4]:
+            xmin = 1.56 
+            xmax = 2 
+            text = "赖" 
+        intervals [5]:
+            xmin = 2 
+            xmax = 2.86 
+            text = "我" 
+        intervals [6]:
+            xmin = 2.86 
+            xmax = 3.28 
+            text = "@" 
+        intervals [7]:
+            xmin = 3.28 
+            xmax = 3.8 
+            text = "我" 
+        intervals [8]:
+            xmin = 3.8 
+            xmax = 4.32 
+            text = "就" 
+        intervals [9]:
+            xmin = 4.32 
+            xmax = 4.68 
+            text = "装" 
+        intervals [10]:
+            xmin = 4.68 
+            xmax = 4.86 
+            text = "不" 
+        intervals [11]:
+            xmin = 4.86 
+            xmax = 5.2 
+            text = "晓" 
+        intervals [12]:
+            xmin = 5.2 
+            xmax = 6.08 
+            text = "得" 
+        intervals [13]:
+            xmin = 6.08 
+            xmax = 6.4 
+            text = "@" 
+        intervals [14]:
+            xmin = 6.4 
+            xmax = 6.46 
+            text = "#" 
+        intervals [15]:
+            xmin = 6.46 
+            xmax = 6.8 
+            text = "自" 
+        intervals [16]:
+            xmin = 6.8 
+            xmax = 7.06 
+            text = "由" 
+        intervals [17]:
+            xmin = 7.06 
+            xmax = 7.34 
+            text = "移" 
+        intervals [18]:
+            xmin = 7.34 
+            xmax = 7.84 
+            text = "动" 
+        intervals [19]:
+            xmin = 7.84 
+            xmax = 8.14 
+            text = "自" 
+        intervals [20]:
+            xmin = 8.14 
+            xmax = 8.38 
+            text = "我" 
+        intervals [21]:
+            xmin = 8.38 
+            xmax = 8.6 
+            text = "地" 
+        intervals [22]:
+            xmin = 8.6 
+            xmax = 11.07 
+            text = "过" 
+    item [4]:
+        class = "IntervalTier" 
+        name = "Phonsa phoneme" 
+        xmin = 0 
+        xmax = 11.07 
+        intervals: size = 34 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.18 
+            text = "x" 
+        intervals [2]:
+            xmin = 0.18 
+            xmax = 0.62 
+            text = "v" 
+        intervals [3]:
+            xmin = 0.62 
+            xmax = 1.14 
+            text = "iao" 
+        intervals [4]:
+            xmin = 1.14 
+            xmax = 1.56 
+            text = "i" 
+        intervals [5]:
+            xmin = 1.56 
+            xmax = 1.76 
+            text = "l" 
+        intervals [6]:
+            xmin = 1.76 
+            xmax = 2 
+            text = "ai" 
+        intervals [7]:
+            xmin = 2 
+            xmax = 2.86 
+            text = "uo" 
+        intervals [8]:
+            xmin = 2.86 
+            xmax = 3.28 
+            text = "@" 
+        intervals [9]:
+            xmin = 3.28 
+            xmax = 3.8 
+            text = "uo" 
+        intervals [10]:
+            xmin = 3.8 
+            xmax = 3.92 
+            text = "j" 
+        intervals [11]:
+            xmin = 3.92 
+            xmax = 4.32 
+            text = "iou" 
+        intervals [12]:
+            xmin = 4.32 
+            xmax = 4.44 
+            text = "zh" 
+        intervals [13]:
+            xmin = 4.44 
+            xmax = 4.68 
+            text = "uang" 
+        intervals [14]:
+            xmin = 4.68 
+            xmax = 4.74 
+            text = "b" 
+        intervals [15]:
+            xmin = 4.74 
+            xmax = 4.86 
+            text = "u" 
+        intervals [16]:
+            xmin = 4.86 
+            xmax = 5.02 
+            text = "x" 
+        intervals [17]:
+            xmin = 5.02 
+            xmax = 5.2 
+            text = "iao" 
+        intervals [18]:
+            xmin = 5.2 
+            xmax = 5.3 
+            text = "d" 
+        intervals [19]:
+            xmin = 5.3 
+            xmax = 6.08 
+            text = "e" 
+        intervals [20]:
+            xmin = 6.08 
+            xmax = 6.4 
+            text = "@" 
+        intervals [21]:
+            xmin = 6.4 
+            xmax = 6.46 
+            text = "#" 
+        intervals [22]:
+            xmin = 6.46 
+            xmax = 6.58 
+            text = "z" 
+        intervals [23]:
+            xmin = 6.58 
+            xmax = 6.8 
+            text = "i" 
+        intervals [24]:
+            xmin = 6.8 
+            xmax = 7.06 
+            text = "iou" 
+        intervals [25]:
+            xmin = 7.06 
+            xmax = 7.34 
+            text = "i" 
+        intervals [26]:
+            xmin = 7.34 
+            xmax = 7.42 
+            text = "d" 
+        intervals [27]:
+            xmin = 7.42 
+            xmax = 7.84 
+            text = "ong" 
+        intervals [28]:
+            xmin = 7.84 
+            xmax = 7.96 
+            text = "z" 
+        intervals [29]:
+            xmin = 7.96 
+            xmax = 8.14 
+            text = "i" 
+        intervals [30]:
+            xmin = 8.14 
+            xmax = 8.38 
+            text = "uo" 
+        intervals [31]:
+            xmin = 8.38 
+            xmax = 8.46 
+            text = "d" 
+        intervals [32]:
+            xmin = 8.46 
+            xmax = 8.6 
+            text = "e" 
+        intervals [33]:
+            xmin = 8.6 
+            xmax = 8.76 
+            text = "g" 
+        intervals [34]:
+            xmin = 8.76 
+            xmax = 11.07 
+            text = "uo" 
+
+    item [5]:
+        class = "IntervalTier" 
+        name = "MFA word" 
+        xmin = 0 
+        xmax = 11.07 
+        intervals: size = 23 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.59 
+            text = "需" 
+        intervals [2]:
+            xmin = 0.59 
+            xmax = 1.09 
+            text = "要" 
+        intervals [3]:
+            xmin = 1.09 
+            xmax = 1.45 
+            text = "依" 
+        intervals [4]:
+            xmin = 1.45 
+            xmax = 1.96 
+            text = "赖" 
+        intervals [5]:
+            xmin = 1.96 
+            xmax = 2.12 
+            text = "我" 
+        intervals [6]:
+            xmin = 2.12 
+            xmax = 2.84 
+            text = "我" 
+        intervals [7]:
+            xmin = 2.84 
+            xmax = 3.32 
+            text = "#" 
+        intervals [8]:
+            xmin = 3.32 
+            xmax = 3.76 
+            text = "就" 
+        intervals [9]:
+            xmin = 3.76 
+            xmax = 4.03 
+            text = "装" 
+        intervals [10]:
+            xmin = 4.03 
+            xmax = 4.3 
+            text = "不" 
+        intervals [11]:
+            xmin = 4.3 
+            xmax = 4.64 
+            text = "晓" 
+        intervals [12]:
+            xmin = 4.64 
+            xmax = 4.76 
+            text = "得" 
+        intervals [13]:
+            xmin = 4.76 
+            xmax = 4.94 
+            text = "#" 
+        intervals [14]:
+            xmin = 4.94 
+            xmax = 5 
+            text = "自" 
+        intervals [15]:
+            xmin = 5 
+            xmax = 5.18 
+            text = "由" 
+        intervals [16]:
+            xmin = 5.18 
+            xmax = 5.21 
+            text = "移" 
+        intervals [17]:
+            xmin = 5.21 
+            xmax = 6.02 
+            text = "动" 
+        intervals [18]:
+            xmin = 6.02 
+            xmax = 6.43 
+            text = "#" 
+        intervals [19]:
+            xmin = 6.43 
+            xmax = 6.92 
+            text = "自" 
+        intervals [20]:
+            xmin = 6.92 
+            xmax = 7.05 
+            text = "我" 
+        intervals [21]:
+            xmin = 7.05 
+            xmax = 7.3 
+            text = "地" 
+        intervals [22]:
+            xmin = 7.3 
+            xmax = 7.72 
+            text = "过" 
+        intervals [23]:
+            xmin = 7.72 
+            xmax = 11.07 
+            text = "#" 
+    item [6]:
+        class = "IntervalTier" 
+        name = "MFA phoneme" 
+        xmin = 0 
+        xmax = 11.07 
+        intervals: size = 35 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.14 
+            text = "x" 
+        intervals [2]:
+            xmin = 0.14 
+            xmax = 0.59 
+            text = "v" 
+        intervals [3]:
+            xmin = 0.59 
+            xmax = 1.09 
+            text = "iao" 
+        intervals [4]:
+            xmin = 1.09 
+            xmax = 1.45 
+            text = "i" 
+        intervals [5]:
+            xmin = 1.45 
+            xmax = 1.74 
+            text = "l" 
+        intervals [6]:
+            xmin = 1.74 
+            xmax = 1.96 
+            text = "ai" 
+        intervals [7]:
+            xmin = 1.96 
+            xmax = 2.12 
+            text = "uo" 
+        intervals [8]:
+            xmin = 2.12 
+            xmax = 2.84 
+            text = "uo" 
+        intervals [9]:
+            xmin = 2.84 
+            xmax = 3.32 
+            text = "#" 
+        intervals [10]:
+            xmin = 3.32 
+            xmax = 3.35 
+            text = "j" 
+        intervals [11]:
+            xmin = 3.35 
+            xmax = 3.76 
+            text = "iou" 
+        intervals [12]:
+            xmin = 3.76 
+            xmax = 3.89 
+            text = "zh" 
+        intervals [13]:
+            xmin = 3.89 
+            xmax = 4.03 
+            text = "uang" 
+        intervals [14]:
+            xmin = 4.03 
+            xmax = 4.06 
+            text = "b" 
+        intervals [15]:
+            xmin = 4.06 
+            xmax = 4.3 
+            text = "u" 
+        intervals [16]:
+            xmin = 4.3 
+            xmax = 4.43 
+            text = "x" 
+        intervals [17]:
+            xmin = 4.43 
+            xmax = 4.64 
+            text = "iao" 
+        intervals [18]:
+            xmin = 4.64 
+            xmax = 4.73 
+            text = "d" 
+        intervals [19]:
+            xmin = 4.73 
+            xmax = 4.76 
+            text = "e" 
+        intervals [20]:
+            xmin = 4.76 
+            xmax = 4.94 
+            text = "#" 
+        intervals [21]:
+            xmin = 4.94 
+            xmax = 4.97 
+            text = "z" 
+        intervals [22]:
+            xmin = 4.97 
+            xmax = 5 
+            text = "i" 
+        intervals [23]:
+            xmin = 5 
+            xmax = 5.18 
+            text = "iou" 
+        intervals [24]:
+            xmin = 5.18 
+            xmax = 5.21 
+            text = "i" 
+        intervals [25]:
+            xmin = 5.21 
+            xmax = 5.26 
+            text = "d" 
+        intervals [26]:
+            xmin = 5.26 
+            xmax = 6.02 
+            text = "ong" 
+        intervals [27]:
+            xmin = 6.02 
+            xmax = 6.43 
+            text = "#" 
+        intervals [28]:
+            xmin = 6.43 
+            xmax = 6.55 
+            text = "z" 
+        intervals [29]:
+            xmin = 6.55 
+            xmax = 6.92 
+            text = "i" 
+        intervals [30]:
+            xmin = 6.92 
+            xmax = 7.05 
+            text = "uo" 
+        intervals [31]:
+            xmin = 7.05 
+            xmax = 7.08 
+            text = "d" 
+        intervals [32]:
+            xmin = 7.08 
+            xmax = 7.3 
+            text = "e" 
+        intervals [33]:
+            xmin = 7.3 
+            xmax = 7.38 
+            text = "g" 
+        intervals [34]:
+            xmin = 7.38 
+            xmax = 7.72 
+            text = "uo" 
+        intervals [35]:
+            xmin = 7.72 
+            xmax = 11.07 
+            text = "#" 

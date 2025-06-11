@@ -1,0 +1,868 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 14.43 
+tiers? <exists> 
+size = 6 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "GT word" 
+        xmin = 0 
+        xmax = 14.43 
+        intervals: size = 22 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.6449999999999996 
+            text = "フ" 
+        intervals [2]:
+            xmin = 0.6449999999999996 
+            xmax = 1.620000000000001 
+            text = "ミ" 
+        intervals [3]:
+            xmin = 1.620000000000001 
+            xmax = 1.9399999999999995 
+            text = "ヨ" 
+        intervals [4]:
+            xmin = 1.9399999999999995 
+            xmax = 2.410000000000002 
+            text = "ム" 
+        intervals [5]:
+            xmin = 2.410000000000002 
+            xmax = 3 
+            text = "ス" 
+        intervals [6]:
+            xmin = 3 
+            xmax = 4.244999999999999 
+            text = "キイ" 
+        intervals [7]:
+            xmin = 4.244999999999999 
+            xmax = 4.590000000000002 
+            text = "ヒ" 
+        intervals [8]:
+            xmin = 4.590000000000002 
+            xmax = 4.904999999999999 
+            text = "@" 
+        intervals [9]:
+            xmin = 4.904999999999999 
+            xmax = 5.514999999999999 
+            text = "カ" 
+        intervals [10]:
+            xmin = 5.514999999999999 
+            xmax = 6.635 
+            text = "サア" 
+        intervals [11]:
+            xmin = 6.635 
+            xmax = 7.1800000000000015 
+            text = "ネ" 
+        intervals [12]:
+            xmin = 7.1800000000000015 
+            xmax = 7.845000000000001 
+            text = "ツ" 
+        intervals [13]:
+            xmin = 7.845000000000001 
+            xmax = 9.040000000000001 
+            text = "ツ" 
+        intervals [14]:
+            xmin = 9.040000000000001 
+            xmax = 9.62 
+            text = "#" 
+        intervals [15]:
+            xmin = 9.62 
+            xmax = 10.160000000000002 
+            text = "イ" 
+        intervals [16]:
+            xmin = 10.160000000000002 
+            xmax = 11.065 
+            text = "ツ" 
+        intervals [17]:
+            xmin = 11.065 
+            xmax = 11.445000000000002 
+            text = "シ" 
+        intervals [18]:
+            xmin = 11.445000000000002 
+            xmax = 12.025 
+            text = "カ" 
+        intervals [19]:
+            xmin = 12.025 
+            xmax = 12.575000000000001 
+            text = "ト" 
+        intervals [20]:
+            xmin = 12.575000000000001 
+            xmax = 13.845 
+            text = "シイ" 
+        intervals [21]:
+            xmin = 13.845 
+            xmax = 14.155 
+            text = "モ" 
+        intervals [22]:
+            xmin = 14.155 
+            xmax = 14.43 
+            text = "@" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "GT phoneme" 
+        xmin = 0 
+        xmax = 14.43 
+        intervals: size = 40 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.09999999999999964 
+            text = "f" 
+        intervals [2]:
+            xmin = 0.09999999999999964 
+            xmax = 0.6449999999999996 
+            text = "u" 
+        intervals [3]:
+            xmin = 0.6449999999999996 
+            xmax = 0.7350000000000012 
+            text = "m" 
+        intervals [4]:
+            xmin = 0.7350000000000012 
+            xmax = 1.620000000000001 
+            text = "i" 
+        intervals [5]:
+            xmin = 1.620000000000001 
+            xmax = 1.7550000000000008 
+            text = "y" 
+        intervals [6]:
+            xmin = 1.7550000000000008 
+            xmax = 1.9399999999999995 
+            text = "o" 
+        intervals [7]:
+            xmin = 1.9399999999999995 
+            xmax = 2.005000000000001 
+            text = "m" 
+        intervals [8]:
+            xmin = 2.005000000000001 
+            xmax = 2.410000000000002 
+            text = "u" 
+        intervals [9]:
+            xmin = 2.410000000000002 
+            xmax = 2.58 
+            text = "s" 
+        intervals [10]:
+            xmin = 2.58 
+            xmax = 3 
+            text = "u" 
+        intervals [11]:
+            xmin = 3 
+            xmax = 3.1549999999999994 
+            text = "k" 
+        intervals [12]:
+            xmin = 3.1549999999999994 
+            xmax = 4.244999999999999 
+            text = "i" 
+        intervals [13]:
+            xmin = 4.244999999999999 
+            xmax = 4.270000000000001 
+            text = "h" 
+        intervals [14]:
+            xmin = 4.270000000000001 
+            xmax = 4.590000000000002 
+            text = "i" 
+        intervals [15]:
+            xmin = 4.590000000000002 
+            xmax = 4.904999999999999 
+            text = "@" 
+        intervals [16]:
+            xmin = 4.904999999999999 
+            xmax = 5 
+            text = "k" 
+        intervals [17]:
+            xmin = 5 
+            xmax = 5.514999999999999 
+            text = "a" 
+        intervals [18]:
+            xmin = 5.514999999999999 
+            xmax = 5.654999999999999 
+            text = "s" 
+        intervals [19]:
+            xmin = 5.654999999999999 
+            xmax = 6.635 
+            text = "a" 
+        intervals [20]:
+            xmin = 6.635 
+            xmax = 6.764999999999999 
+            text = "n" 
+        intervals [21]:
+            xmin = 6.764999999999999 
+            xmax = 7.1800000000000015 
+            text = "e" 
+        intervals [22]:
+            xmin = 7.1800000000000015 
+            xmax = 7.4 
+            text = "ts" 
+        intervals [23]:
+            xmin = 7.4 
+            xmax = 7.845000000000001 
+            text = "u" 
+        intervals [24]:
+            xmin = 7.845000000000001 
+            xmax = 8.020000000000001 
+            text = "ts" 
+        intervals [25]:
+            xmin = 8.020000000000001 
+            xmax = 9.040000000000001 
+            text = "u" 
+        intervals [26]:
+            xmin = 9.040000000000001 
+            xmax = 9.62 
+            text = "#" 
+        intervals [27]:
+            xmin = 9.62 
+            xmax = 10.160000000000002 
+            text = "i" 
+        intervals [28]:
+            xmin = 10.160000000000002 
+            xmax = 10.320000000000002 
+            text = "ts" 
+        intervals [29]:
+            xmin = 10.320000000000002 
+            xmax = 11.065 
+            text = "u" 
+        intervals [30]:
+            xmin = 11.065 
+            xmax = 11.225 
+            text = "sh" 
+        intervals [31]:
+            xmin = 11.225 
+            xmax = 11.445000000000002 
+            text = "i" 
+        intervals [32]:
+            xmin = 11.445000000000002 
+            xmax = 11.555000000000001 
+            text = "k" 
+        intervals [33]:
+            xmin = 11.555000000000001 
+            xmax = 12.025 
+            text = "a" 
+        intervals [34]:
+            xmin = 12.025 
+            xmax = 12.139999999999999 
+            text = "t" 
+        intervals [35]:
+            xmin = 12.139999999999999 
+            xmax = 12.575000000000001 
+            text = "o" 
+        intervals [36]:
+            xmin = 12.575000000000001 
+            xmax = 12.76 
+            text = "sh" 
+        intervals [37]:
+            xmin = 12.76 
+            xmax = 13.845 
+            text = "i" 
+        intervals [38]:
+            xmin = 13.845 
+            xmax = 13.924999999999999 
+            text = "m" 
+        intervals [39]:
+            xmin = 13.924999999999999 
+            xmax = 14.155 
+            text = "o" 
+        intervals [40]:
+            xmin = 14.155 
+            xmax = 14.43 
+            text = "@" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "Phonsa word" 
+        xmin = 0 
+        xmax = 14.43 
+        intervals: size = 24 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.66 
+            text = "フ" 
+        intervals [2]:
+            xmin = 0.66 
+            xmax = 1.64 
+            text = "ミ" 
+        intervals [3]:
+            xmin = 1.64 
+            xmax = 1.94 
+            text = "ヨ" 
+        intervals [4]:
+            xmin = 1.94 
+            xmax = 2.46 
+            text = "ム" 
+        intervals [5]:
+            xmin = 2.46 
+            xmax = 2.52 
+            text = "#" 
+        intervals [6]:
+            xmin = 2.52 
+            xmax = 3.06 
+            text = "ス" 
+        intervals [7]:
+            xmin = 3.06 
+            xmax = 4.66 
+            text = "キイ" 
+        intervals [8]:
+            xmin = 4.66 
+            xmax = 4.7 
+            text = "ヒ" 
+        intervals [9]:
+            xmin = 4.7 
+            xmax = 4.92 
+            text = "@" 
+        intervals [10]:
+            xmin = 4.92 
+            xmax = 5.52 
+            text = "カ" 
+        intervals [11]:
+            xmin = 5.52 
+            xmax = 6.68 
+            text = "サア" 
+        intervals [12]:
+            xmin = 6.68 
+            xmax = 7.24 
+            text = "ネ" 
+        intervals [13]:
+            xmin = 7.24 
+            xmax = 7.9 
+            text = "ツ" 
+        intervals [14]:
+            xmin = 7.9 
+            xmax = 9.08 
+            text = "ツ" 
+        intervals [15]:
+            xmin = 9.08 
+            xmax = 9.1 
+            text = "#" 
+        intervals [16]:
+            xmin = 9.1 
+            xmax = 9.6 
+            text = "@" 
+        intervals [17]:
+            xmin = 9.6 
+            xmax = 10.22 
+            text = "イ" 
+        intervals [18]:
+            xmin = 10.22 
+            xmax = 11.08 
+            text = "ツ" 
+        intervals [19]:
+            xmin = 11.08 
+            xmax = 11.48 
+            text = "シ" 
+        intervals [20]:
+            xmin = 11.48 
+            xmax = 12.08 
+            text = "カ" 
+        intervals [21]:
+            xmin = 12.08 
+            xmax = 12.6 
+            text = "ト" 
+        intervals [22]:
+            xmin = 12.6 
+            xmax = 13.84 
+            text = "シイ" 
+        intervals [23]:
+            xmin = 13.84 
+            xmax = 14.2 
+            text = "モ" 
+        intervals [24]:
+            xmin = 14.2 
+            xmax = 14.43 
+            text = "@" 
+    item [4]:
+        class = "IntervalTier" 
+        name = "Phonsa phoneme" 
+        xmin = 0 
+        xmax = 14.43 
+        intervals: size = 42 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.08 
+            text = "f" 
+        intervals [2]:
+            xmin = 0.08 
+            xmax = 0.66 
+            text = "u" 
+        intervals [3]:
+            xmin = 0.66 
+            xmax = 0.72 
+            text = "m" 
+        intervals [4]:
+            xmin = 0.72 
+            xmax = 1.64 
+            text = "i" 
+        intervals [5]:
+            xmin = 1.64 
+            xmax = 1.72 
+            text = "y" 
+        intervals [6]:
+            xmin = 1.72 
+            xmax = 1.94 
+            text = "o" 
+        intervals [7]:
+            xmin = 1.94 
+            xmax = 2 
+            text = "m" 
+        intervals [8]:
+            xmin = 2 
+            xmax = 2.46 
+            text = "u" 
+        intervals [9]:
+            xmin = 2.46 
+            xmax = 2.52 
+            text = "#" 
+        intervals [10]:
+            xmin = 2.52 
+            xmax = 2.54 
+            text = "s" 
+        intervals [11]:
+            xmin = 2.54 
+            xmax = 3.06 
+            text = "u" 
+        intervals [12]:
+            xmin = 3.06 
+            xmax = 3.14 
+            text = "k" 
+        intervals [13]:
+            xmin = 3.14 
+            xmax = 4.66 
+            text = "i" 
+        intervals [14]:
+            xmin = 4.66 
+            xmax = 4.68 
+            text = "h" 
+        intervals [15]:
+            xmin = 4.68 
+            xmax = 4.7 
+            text = "i" 
+        intervals [16]:
+            xmin = 4.7 
+            xmax = 4.92 
+            text = "@" 
+        intervals [17]:
+            xmin = 4.92 
+            xmax = 4.98 
+            text = "k" 
+        intervals [18]:
+            xmin = 4.98 
+            xmax = 5.52 
+            text = "a" 
+        intervals [19]:
+            xmin = 5.52 
+            xmax = 5.64 
+            text = "s" 
+        intervals [20]:
+            xmin = 5.64 
+            xmax = 6.68 
+            text = "a" 
+        intervals [21]:
+            xmin = 6.68 
+            xmax = 6.72 
+            text = "n" 
+        intervals [22]:
+            xmin = 6.72 
+            xmax = 7.24 
+            text = "e" 
+        intervals [23]:
+            xmin = 7.24 
+            xmax = 7.38 
+            text = "ts" 
+        intervals [24]:
+            xmin = 7.38 
+            xmax = 7.9 
+            text = "u" 
+        intervals [25]:
+            xmin = 7.9 
+            xmax = 7.98 
+            text = "ts" 
+        intervals [26]:
+            xmin = 7.98 
+            xmax = 9.08 
+            text = "u" 
+        intervals [27]:
+            xmin = 9.08 
+            xmax = 9.1 
+            text = "#" 
+        intervals [28]:
+            xmin = 9.1 
+            xmax = 9.6 
+            text = "@" 
+        intervals [29]:
+            xmin = 9.6 
+            xmax = 10.22 
+            text = "i" 
+        intervals [30]:
+            xmin = 10.22 
+            xmax = 10.32 
+            text = "ts" 
+        intervals [31]:
+            xmin = 10.32 
+            xmax = 11.08 
+            text = "u" 
+        intervals [32]:
+            xmin = 11.08 
+            xmax = 11.2 
+            text = "sh" 
+        intervals [33]:
+            xmin = 11.2 
+            xmax = 11.48 
+            text = "i" 
+        intervals [34]:
+            xmin = 11.48 
+            xmax = 11.56 
+            text = "k" 
+        intervals [35]:
+            xmin = 11.56 
+            xmax = 12.08 
+            text = "a" 
+        intervals [36]:
+            xmin = 12.08 
+            xmax = 12.14 
+            text = "t" 
+        intervals [37]:
+            xmin = 12.14 
+            xmax = 12.6 
+            text = "o" 
+        intervals [38]:
+            xmin = 12.6 
+            xmax = 12.74 
+            text = "sh" 
+        intervals [39]:
+            xmin = 12.74 
+            xmax = 13.84 
+            text = "i" 
+        intervals [40]:
+            xmin = 13.84 
+            xmax = 13.92 
+            text = "m" 
+        intervals [41]:
+            xmin = 13.92 
+            xmax = 14.2 
+            text = "o" 
+        intervals [42]:
+            xmin = 14.2 
+            xmax = 14.43 
+            text = "@" 
+    item [4]:
+        class = "IntervalTier" 
+        name = "MFA word" 
+        xmin = 0 
+        xmax = 14.43 
+        intervals: size = 30 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.06 
+            text = "フ" 
+        intervals [2]:
+            xmin = 0.06 
+            xmax = 1.61 
+            text = "#" 
+        intervals [3]:
+            xmin = 1.61 
+            xmax = 1.69 
+            text = "ミ" 
+        intervals [4]:
+            xmin = 1.69 
+            xmax = 1.95 
+            text = "ヨ" 
+        intervals [5]:
+            xmin = 1.95 
+            xmax = 2.4 
+            text = "ム" 
+        intervals [6]:
+            xmin = 2.4 
+            xmax = 2.45 
+            text = "#" 
+        intervals [7]:
+            xmin = 2.45 
+            xmax = 2.99 
+            text = "ス" 
+        intervals [8]:
+            xmin = 2.99 
+            xmax = 4.64 
+            text = "キイ" 
+        intervals [9]:
+            xmin = 4.64 
+            xmax = 4.67 
+            text = "#" 
+        intervals [10]:
+            xmin = 4.67 
+            xmax = 4.86 
+            text = "ヒ" 
+        intervals [11]:
+            xmin = 4.86 
+            xmax = 5.49 
+            text = "カ" 
+        intervals [12]:
+            xmin = 5.49 
+            xmax = 5.52 
+            text = "#" 
+        intervals [13]:
+            xmin = 5.52 
+            xmax = 6.67 
+            text = "サア" 
+        intervals [14]:
+            xmin = 6.67 
+            xmax = 7.19 
+            text = "ネ" 
+        intervals [15]:
+            xmin = 7.19 
+            xmax = 7.24 
+            text = "#" 
+        intervals [16]:
+            xmin = 7.24 
+            xmax = 7.85 
+            text = "ツ" 
+        intervals [17]:
+            xmin = 7.85 
+            xmax = 7.88 
+            text = "#" 
+        intervals [18]:
+            xmin = 7.88 
+            xmax = 9.07 
+            text = "ツ" 
+        intervals [19]:
+            xmin = 9.07 
+            xmax = 10.21 
+            text = "#" 
+        intervals [20]:
+            xmin = 10.21 
+            xmax = 10.24 
+            text = "イ" 
+        intervals [21]:
+            xmin = 10.24 
+            xmax = 11.03 
+            text = "ツ" 
+        intervals [22]:
+            xmin = 11.03 
+            xmax = 11.06 
+            text = "#" 
+        intervals [23]:
+            xmin = 11.06 
+            xmax = 11.47 
+            text = "シ" 
+        intervals [24]:
+            xmin = 11.47 
+            xmax = 12.02 
+            text = "カ" 
+        intervals [25]:
+            xmin = 12.02 
+            xmax = 12.08 
+            text = "#" 
+        intervals [26]:
+            xmin = 12.08 
+            xmax = 12.59 
+            text = "ト" 
+        intervals [27]:
+            xmin = 12.59 
+            xmax = 13.85 
+            text = "シイ" 
+        intervals [28]:
+            xmin = 13.85 
+            xmax = 13.89 
+            text = "#" 
+        intervals [29]:
+            xmin = 13.89 
+            xmax = 14.2 
+            text = "モ" 
+        intervals [30]:
+            xmin = 14.2 
+            xmax = 14.43 
+            text = "#" 
+    item [5]:
+        class = "IntervalTier" 
+        name = "MFA phoneme" 
+        xmin = 0 
+        xmax = 14.43 
+        intervals: size = 48 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.03 
+            text = "f" 
+        intervals [2]:
+            xmin = 0.03 
+            xmax = 0.06 
+            text = "u" 
+        intervals [3]:
+            xmin = 0.06 
+            xmax = 1.61 
+            text = "#" 
+        intervals [4]:
+            xmin = 1.61 
+            xmax = 1.64 
+            text = "m" 
+        intervals [5]:
+            xmin = 1.64 
+            xmax = 1.69 
+            text = "i" 
+        intervals [6]:
+            xmin = 1.69 
+            xmax = 1.75 
+            text = "y" 
+        intervals [7]:
+            xmin = 1.75 
+            xmax = 1.95 
+            text = "o" 
+        intervals [8]:
+            xmin = 1.95 
+            xmax = 2 
+            text = "m" 
+        intervals [9]:
+            xmin = 2 
+            xmax = 2.4 
+            text = "u" 
+        intervals [10]:
+            xmin = 2.4 
+            xmax = 2.45 
+            text = "#" 
+        intervals [11]:
+            xmin = 2.45 
+            xmax = 2.56 
+            text = "s" 
+        intervals [12]:
+            xmin = 2.56 
+            xmax = 2.99 
+            text = "u" 
+        intervals [13]:
+            xmin = 2.99 
+            xmax = 3.14 
+            text = "k" 
+        intervals [14]:
+            xmin = 3.14 
+            xmax = 4.64 
+            text = "i" 
+        intervals [15]:
+            xmin = 4.64 
+            xmax = 4.67 
+            text = "#" 
+        intervals [16]:
+            xmin = 4.67 
+            xmax = 4.8 
+            text = "h" 
+        intervals [17]:
+            xmin = 4.8 
+            xmax = 4.86 
+            text = "i" 
+        intervals [18]:
+            xmin = 4.86 
+            xmax = 4.99 
+            text = "k" 
+        intervals [19]:
+            xmin = 4.99 
+            xmax = 5.49 
+            text = "a" 
+        intervals [20]:
+            xmin = 5.49 
+            xmax = 5.52 
+            text = "#" 
+        intervals [21]:
+            xmin = 5.52 
+            xmax = 6.095 
+            text = "s" 
+        intervals [22]:
+            xmin = 6.095 
+            xmax = 6.67 
+            text = "a" 
+        intervals [23]:
+            xmin = 6.67 
+            xmax = 6.76 
+            text = "n" 
+        intervals [24]:
+            xmin = 6.76 
+            xmax = 7.19 
+            text = "e" 
+        intervals [25]:
+            xmin = 7.19 
+            xmax = 7.24 
+            text = "#" 
+        intervals [26]:
+            xmin = 7.24 
+            xmax = 7.37 
+            text = "ts" 
+        intervals [27]:
+            xmin = 7.37 
+            xmax = 7.85 
+            text = "u" 
+        intervals [28]:
+            xmin = 7.85 
+            xmax = 7.88 
+            text = "#" 
+        intervals [29]:
+            xmin = 7.88 
+            xmax = 8 
+            text = "ts" 
+        intervals [30]:
+            xmin = 8 
+            xmax = 9.07 
+            text = "u" 
+        intervals [31]:
+            xmin = 9.07 
+            xmax = 10.21 
+            text = "#" 
+        intervals [32]:
+            xmin = 10.21 
+            xmax = 10.24 
+            text = "i" 
+        intervals [33]:
+            xmin = 10.24 
+            xmax = 10.3 
+            text = "ts" 
+        intervals [34]:
+            xmin = 10.3 
+            xmax = 11.03 
+            text = "u" 
+        intervals [35]:
+            xmin = 11.03 
+            xmax = 11.06 
+            text = "#" 
+        intervals [36]:
+            xmin = 11.06 
+            xmax = 11.21 
+            text = "sh" 
+        intervals [37]:
+            xmin = 11.21 
+            xmax = 11.47 
+            text = "i" 
+        intervals [38]:
+            xmin = 11.47 
+            xmax = 11.55 
+            text = "k" 
+        intervals [39]:
+            xmin = 11.55 
+            xmax = 12.02 
+            text = "a" 
+        intervals [40]:
+            xmin = 12.02 
+            xmax = 12.08 
+            text = "#" 
+        intervals [41]:
+            xmin = 12.08 
+            xmax = 12.13 
+            text = "t" 
+        intervals [42]:
+            xmin = 12.13 
+            xmax = 12.59 
+            text = "o" 
+        intervals [43]:
+            xmin = 12.59 
+            xmax = 12.74 
+            text = "sh" 
+        intervals [44]:
+            xmin = 12.74 
+            xmax = 13.85 
+            text = "i" 
+        intervals [45]:
+            xmin = 13.85 
+            xmax = 13.89 
+            text = "#" 
+        intervals [46]:
+            xmin = 13.89 
+            xmax = 13.93 
+            text = "m" 
+        intervals [47]:
+            xmin = 13.93 
+            xmax = 14.2 
+            text = "o" 
+        intervals [48]:
+            xmin = 14.2 
+            xmax = 14.43 
+            text = "#" 
